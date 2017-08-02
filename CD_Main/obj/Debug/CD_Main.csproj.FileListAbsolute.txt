@@ -1,0 +1,9 @@
+c:\users\stagiaire\documents\visual studio 2015\Projects\CD_Main\CD_Main\bin\Debug\CD_Main.exe.config
+C:\Users\STAGIAIRE\Documents\Visual Studio 2015\Projects\CD_Main\CD_Main\bin\Debug\CD_Main.exe
+C:\Users\STAGIAIRE\Documents\Visual Studio 2015\Projects\CD_Main\CD_Main\bin\Debug\CD_Main.pdb
+C:\Users\STAGIAIRE\Documents\Visual Studio 2015\Projects\CD_Main\CD_Main\obj\Debug\CD_Main.csprojResolveAssemblyReference.cache
+C:\Users\STAGIAIRE\Documents\Visual Studio 2015\Projects\CD_Main\CD_Main\obj\Debug\CD_Main.Mainform.resources
+C:\Users\STAGIAIRE\Documents\Visual Studio 2015\Projects\CD_Main\CD_Main\obj\Debug\CD_Main.Properties.Resources.resources
+C:\Users\STAGIAIRE\Documents\Visual Studio 2015\Projects\CD_Main\CD_Main\obj\Debug\CD_Main.csproj.GenerateResource.Cache
+C:\Users\STAGIAIRE\Documents\Visual Studio 2015\Projects\CD_Main\CD_Main\obj\Debug\CD_Main.exe
+C:\Users\STAGIAIRE\Documents\Visual Studio 2015\Projects\CD_Main\CD_Main\obj\Debug\CD_Main.pdb
